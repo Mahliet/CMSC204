@@ -1,6 +1,6 @@
 /**
  * Thrown if a password is less than six characters long.
- * @author YOUR NAME
+ * @author Mahliet
  */
 public class LengthException extends Exception {
 	/**
